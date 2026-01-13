@@ -1,4 +1,4 @@
-# 🌑 Hi, I'm Talha Asif 🇵🇰
+# 🌑 Hi, I'm Talha Asif 
 ![banner](https://i.ibb.co/kVGdGXY0/Untitled.png)
 
 I’m a developer focused on clean code and aesthetic interfaces. 
